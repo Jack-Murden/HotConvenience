@@ -8,7 +8,7 @@ The format of these shortcuts are as the following:
 
 {
 
-    Run "[Insert path to exe here]"
+   Run "[Insert path to exe here]"
   
 }
 
